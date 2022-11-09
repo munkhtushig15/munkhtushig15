@@ -1,3 +1,6 @@
+<img src="https://media1.giphy.com/media/lA8B2UfxkXvy9vtxyO/giphy.gif?cid=790b7611b062987905de9105f99b4e3b704fb4cd0e40ced7&rid=giphy.gif&ct=g" alt="vscode" width="100%" height="100%"/>
+
+
 - 👋 Hi, I’m @munkhtushig15
 - 🌱 I’m currently learning React, JavaScript , CSS and HTML
 

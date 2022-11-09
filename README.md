@@ -11,7 +11,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="php" width="45" height="45"/>
 </p>
 
-<iframe src="https://media.tenor.com/i76CDgUxABcAAAAd/anime.gif" title="W3Schools Free Online Web Tutorials"></iframe>
+<iframe src="https://media.tenor.com/i76CDgUxABcAAAAd/anime.gif" width="100%" height="300" style="border:none;">
+</iframe>
+
+<img src="https://media.tenor.com/i76CDgUxABcAAAAd/anime.gif" alt="php" width="45" height="45"/>
 
 <!---
 munkhtushig15/munkhtushig15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

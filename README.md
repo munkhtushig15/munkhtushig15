@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @munkhtushig15
-- 🌱 I’m currently learning React, JavaScript , CSS and HTML
+- 🌱 I’m currently learning c++, React, JavaScript and CSS
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left" style="background-color: white;">

@@ -21,7 +21,7 @@
 
 <br />
 
-<h2>📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝<h2/>
+<h2>📝 Social 📝<h2/>
 <a href="https://www.instagram.com/wiecznyx/">
   <img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="vscode" width="45" height="45"/>
 <a/>

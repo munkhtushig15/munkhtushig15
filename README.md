@@ -21,7 +21,9 @@
 
 <br />
 
-<img href="https://www.instagram.com/wiecznyx/" src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="vscode" width="45" height="45"/>
+<a href="https://www.instagram.com/wiecznyx/">
+  <img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="vscode" width="45" height="45"/>
+<a/>
 
 <!---
 munkhtushig15/munkhtushig15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
